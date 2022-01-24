@@ -1,0 +1,21 @@
+---
+title: "Ernestine Brannon"
+image: "me_and_chewy.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Most broadly speaking my research interests span across cognitive and social neuroscience as well as metascience and science reform. I am interested in how neuroscience and psychology can be mutually informative. More specifically I am interested in studying how individual differences in social and perceptual experiences and behaviors relate to neurodiversity, pathology, and lifespan development.
+
+Currently I am a research assistant in the Perception and Action Lab as well as the Social and Affective Neuroscience Lab at the University of Oregon where I am finishing my undergraduate degree in Psychology. I am also developing the McNair Data Science Series workshops where I will teach (and learn along with) my fellow McNair scholars the basics of data science.
