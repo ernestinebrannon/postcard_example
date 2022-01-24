@@ -2,14 +2,12 @@
 title: "Ernestine Brannon"
 image: "me_and_chewy.png"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/ernestinebrannon"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:ernestinebrannon@gmail.com"
 output:
   postcards::trestles
 ---
