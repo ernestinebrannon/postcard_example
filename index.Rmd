@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:ernestinebrannon@gmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
 
 ## Bio
